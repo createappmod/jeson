@@ -1,0 +1,168 @@
+{
+  "Ads":
+  [
+    {
+      "status_app":"0",
+      "link_redirect":"http://",
+      "select_ads":"",
+      "select_backup_ads":"",
+      "backup_mode":"0",
+      "admob_openid":"",
+      "admob_nativeid":"",
+      "admob_interid":"",
+      "admob_bannerid":"",
+      "interval_intertitial":5,
+      "fan_inter":"YOUR_PLACEMENT_ID",
+      "fan_banner":"YOUR_PLACEMENT_ID",
+      "fan_native":"YOUR_PLACEMENT_ID",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "mopub_mrec":"",
+      "applovin_banner":"",
+      "applovin_inter":""
+    }
+  ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"SADAF MODS",
+      "image":"file:///android_asset/Sadafmods.png",
+      "link":"https://play.google.com/store/apps/developer?id=Sadafmods"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/NDCI0sNP8b4iWhKOo-WYW_dvLA2TFL7ivUEfY3-A8CZM31h8-nSM9skLsdvHlgiQO5q_dbux1EmkRLXKLMtg7w",
+      "view_skin":"https://lh3.googleusercontent.com/J2-KAmV2tJdG3cTjRCfQ3SzavgLCGPadN7lOn_LyGpv7n0oOtQV5PKEws9kmKwNr7X5jjTv0LLq1TeOOTCliEA"
+    },
+    {
+      "id":2,
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/GS_4HnqDjuy5JCMRuGcp8Y3zWbklmhg8pwCkO_OO5uahNTlIfj4acBcMNo2poUQS0PxhDnW1pp1VQmUctLn3vw",
+      "view_skin":"https://lh3.googleusercontent.com/BPVqBvaMirukM-ElPUDhCrDrT9UZMEsRXWkFH2oOdV4YzHQ6yxJsctzXorEM7Y02UpGFv9St_3aghymRlI7LObvaq0o3Rx6u1cE"
+    },
+    {
+      "id":3,
+      "name_skin":"King Pecados Capitais",
+      "skin_url":"https://lh3.googleusercontent.com/LeFOAHU7m7dYlKsknaiZ9vgfzGN0lDnMXh2kRGfWdK7agSBXx37e6vLUpyUbNLFdbKPVKbVk6_H4AZ_x4y0Y",
+      "view_skin":"https://lh3.googleusercontent.com/5UZaIXTlcf2FGRwCxiBzwl8z_y0Vaen4cDZbG_2DcrSMcEzRxFenp0x88k18-qmjhbX7SsXK5kOqGj2hh-3py9E"
+    },
+    {
+      "id":4,
+      "name_skin":"Capitais Black",
+      "skin_url":"https://lh3.googleusercontent.com/_MgC124n1CBCnJB0iaaj3Z97IkNuu48XV7lJjeyow4U6s9b2FRoDzoZfbQukT5kcPwxXecCWdsth5l8iEKoHdg",
+      "view_skin":"https://lh3.googleusercontent.com/KRqJBAzZaYl3NE0uVBjcmkolHEKXVm23-Vyb5SGl5oNDe5BMEg_vLvRjXzfXOXXj7EHpH3WjuDCoGGPfwqxyQj0"
+    },
+    {
+      "id":5,
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/QlYiEl_moSoqJSh3t2nLUbvboU4eF2zEReDnNfRZUxxK8EAxezDAXe9py-v6W3qO597bZb_ChnUHxgvvkuSCWC4",
+      "view_skin":"https://lh3.googleusercontent.com/8uSClfLeKFyR6SbuY_gN5XOZprlqkjlW6TT0nrZLWiSIUdbusKtfJ9CmCzPYwopugsJh2Km2WDvZSaEs_sBlRg"
+    },
+    {
+      "id":6,
+      "name_skin":"Pecados Capitais",
+      "skin_url":"https://lh3.googleusercontent.com/Ce_GQy72OfyzMzp-tX1EmmhyJv3KaJb6NCr4DxadxDXt5-NH4vkic7a6SZINMJSR0qVtexoX_bMkengtlQ4j3nA",
+      "view_skin":"https://lh3.googleusercontent.com/wsV-eZ8vBjlopGyr2EtKXdxj540AZ2WDhOjOuNmZWegmL6cX1HXFkQYAoe40pSZPSsHcy99HHaIMEHyDVBvdZUA"
+    },
+    {
+      "id":7,
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/SZUoVw8BSjlJNML4wr0KA5cTFW-TzHbCfHpqD3L7nxWqBNHn7e-ms10iHiREZ4q1VtxvSWaHXX39TWDcfasFCLk",
+      "view_skin":"https://lh3.googleusercontent.com/8udgsSNxyyi-yNf1P3hGkT-ZtG5-Ts7FpHQWrXUcdyvCnxFpu4SvdJIxrkdTsFqJyF6YAzumqIgLmQoc3vVm"
+    },
+    {
+      "id":8,
+      "name_skin":"Pecados Capitais",
+      "skin_url":"https://lh3.googleusercontent.com/x3TSbabtykIGHgXhz18OLAdu05N_ns-YXSEmcMSLHHRUFS_3hazEhsR5UtKwVwjAO9A2l40C2sNfrrziflX3Vg",
+      "view_skin":"https://lh3.googleusercontent.com/cC1G43_avnJ3NOR1CucKEiwuQnLI_3tvQ2vBo4L8594iXidywE9dgSjoIaoOMBEyXlLASNtCS-4G8t6phCDbbQ"
+    },
+    {
+      "id":9,
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/7YHP57G2DmzjKVSqVUrcIUbesajUFbM76c9k9m2AY1K6bnWqm_IhTamOOJBKE1yk9NDvaE4mlNS8HmehYGukbw",
+      "view_skin":"https://lh3.googleusercontent.com/zbLBnN-C5ECBu2RoMM49Dl5dctE4IPNgasUkz5C5OVuLNv8s9okq3zzLIs7nTfqhk3sk2cy550WHWAi4jHcM_ro"
+    },
+    {
+      "id":10,
+      "name_skin":"pecados Capitais",
+      "skin_url":"https://lh3.googleusercontent.com/oZSw2lVvFOu9lGFAbS72CXLpEYXsRU5D2nJFvJhjKK-RjJJP_jsbucfNDgvIQ6bw40hNUEfsIJd1484ujpFQeA",
+      "view_skin":"https://lh3.googleusercontent.com/pmjulYfs1C4-gyE9O3CO7lN9m12Ff5_DE_dqm4-9d0s2RDUTTzCbe4YCtmiC5q6UyoG_c9_5F0RPT7ievrGMQw"
+    },
+    {
+      "id":11,
+      "name_skin":"Akatsuki Pecados Capitais",
+      "skin_url":"https://lh3.googleusercontent.com/rdsmYcnTSesXp9j05D0C3hv56H05MKpEpaoJI3wCN9rEIGPa-2TyiCyeEg5_-nn8BrVb7AH-5Cbc0dmY0k7EGw",
+      "view_skin":"https://lh3.googleusercontent.com/SAh1CUbrYiJoE_GxbGIOY9FBuKIaEbjlqFhpgAqi_iisMvxWvK0O9Vemfe6adderSFVmBn5Hai8XOkGsForANe8"
+    },
+    {
+      "id":12,
+      "name_skin":"7 pecados capitais simon",
+      "skin_url":"https://lh3.googleusercontent.com/1o4IQdEGjPETvHThWj5f_dFTiHt-6y3rXkvJHYFXCmkLeDW4M_S_tao4nBc4fS6wtCRqGOM8RCDF9EyePqdIaA",
+      "view_skin":"https://lh3.googleusercontent.com/RkNfKY4TjTOZSHt0C44UUfh3xydN-j67F4m-v-dPNM7-44q7r5zowfbsEJ80fqljTD1RFyVF720scQxh_ptn"
+    },
+    {
+      "id":13,
+      "name_skin":"Akatsuki Pecados Capitais",
+      "skin_url":"https://lh3.googleusercontent.com/czWt7_Wjbw-IjZuDXGaOmDujfw2-4V1k6FxtQGz3ZoZevuOihsF5tciRq_XHBIsD7Yw67RmmFDSMDIjCOKVVIvY",
+      "view_skin":"https://lh3.googleusercontent.com/JbZ8b1H3lv6cOvId6czf9f9_SGvaAZy_VvT9TMXu3O54_X_2wSyIa6ef3en7OUSLCFQoJhYcXT8kF8psubm9SA"
+    },
+    {
+      "id":14,
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/p8WWc6dDkvCuv1lq1p9x4xfTwCgmX6YItzh-C0pYgcBX-KMTVoV0Au2KyixV8Q9tKMssfYDJmYBc6wxjQbFozDM",
+      "view_skin":"https://lh3.googleusercontent.com/rXhuUzSmvEC4NAL99Vr2pPWUSB5ZIo-5u0DoobV6LMf2Sa42pWvcgRCFpEAuvbGNXlPBY6EwwMO-N0Xz50xu"
+    },
+    {
+      "id":15,
+      "name_skin":"pecados capitais mestre",
+      "skin_url":"https://lh3.googleusercontent.com/KPnUs6_w4ZYpc1duFNLgbHe08DLHWN2IXr3VyO8PAFa8xg1YH3L6o9CUNY4iJWEhEvrQAONpgnA6xRqtUeCa5Qs",
+      "view_skin":"https://lh3.googleusercontent.com/WcPM6W13K-tC9_hNQCxr-Qj_JPDuZQ1EchR0DUKH8sZWK3ro9SzWxV2rWpDzvwSf9toC9Eugei6ZYCIP8a5R"
+    },
+    {
+      "id":16,
+      "name_skin":"pecados capitais amine",
+      "skin_url":"https://lh3.googleusercontent.com/hsZNydbWT1FILjwPbw2jHOPDLmtISYMYpkmduD2W5CXY9e6khMimyR4byMnnKlFUVpGUbvEGgYSsUqPFQvUynhg",
+      "view_skin":"https://lh3.googleusercontent.com/gK1MqcctQyHWSapGmbQhxJftC48x3Lqamn_M1lW5hP2QVW_DL_p7-iXZITXXfzjgwbZmvjc8g6iJM4Zmzloh1w"
+    },
+    {
+      "id":17,
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/PugjDbQzr2YvRZhcVQwJeeJtTMvf7VnQIoAvc7Oo1ojYJTLIMrNQFZvX9-dPySSetptMDK6VPRY-AQDhBKduiw",
+      "view_skin":"https://lh3.googleusercontent.com/gXGwhp8gC6fOTDFgi9SpZjMHdOYmvV1qaiQe9mXObeH1FY1tloLeYyd1abH1hDGeg9fTq4n-6aebcL7GveWu"
+    },
+    {
+      "id":18,
+      "name_skin":"Pecados Capitais",
+      "skin_url":"https://lh3.googleusercontent.com/EkinBNbVa40SX5i2J_HFxsSnBnRZuNmQHyrtyKWwTPo00aJTwz-Prkce3rXhmQ-Q0Rf9ezueZx9DVz_u5-b4",
+      "view_skin":"https://lh3.googleusercontent.com/R-ML7kCXKot0WW1in2RGs9oJEDSwb5Crn8plQrlsugcxQ66btl8_RuZJh6bb3QmcXmYHAbxSP_rrzago5yme_AQ"
+    },
+    {
+      "id":19,
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/DuaNj1QGqV3WJuppQsVxwcCpv4uiRQI-F4Q2Pt5632c_v6IwYXhCjxhzuTyBjznTDePuBDQ5hNcmDAiUXhsTm7E",
+      "view_skin":"https://lh3.googleusercontent.com/tE9Vb6sbx0xGCtEJU9kiK3qRV1lP1QVl3YVzaOiZyoiPBbNfcuXBuUFkFgSRKHgImAkEzAG6OPX9wShsREwW"
+    },
+    {
+      "id":20,
+      "name_skin":"pecados capitais",
+      "skin_url":"https://lh3.googleusercontent.com/NCw636ypRn1R7tk8cEyfyx6E2RKU80LN596-hJWYIdg59RiqCYthQ_7_Uv4Jf3LJLcAs0i3Gzdhv52EiN2QO7A",
+      "view_skin":"https://lh3.googleusercontent.com/TbTVJFuKdDTurKJhBXmEX9FKMLzdCWS-RLsroAgFWpOp4_CWI9GCvR-qgL_VfY1F2GUrhoLEtFSvtVjAXgnw6Q"
+    }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
+
