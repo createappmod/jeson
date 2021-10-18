@@ -11,7 +11,7 @@
       "admob_nativeid":"",
       "admob_interid":"",
       "admob_bannerid":"",
-      "interval_intertitial":7,
+      "interval_intertitial":5,
       "fan_inter":"YOUR_PLACEMENT_ID",
       "fan_banner":"YOUR_PLACEMENT_ID",
       "fan_native":"YOUR_PLACEMENT_ID",
